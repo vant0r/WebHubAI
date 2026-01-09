@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WebHubAI</string>
+    <string name="title_activity_main">WebHubAI</string>
+    <string name="package_name">ai.webhub.app</string>
+    <string name="custom_url_scheme">ai.webhub.app</string>
+</resources>
